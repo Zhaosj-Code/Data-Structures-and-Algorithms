@@ -1,7 +1,6 @@
-# Data-Structures-and-Algorithms
-数据与算法作业 - VS2015工程
+数据与算法作业 - VS2015工程<br/>
 OJ网址：http://lambda.cool/oj/index/<br/>
-
+<hr/>
 Problem  22  :   实验一：卡迈克尔数 (Carmichael Number) OJ网址：http://lambda.cool/oj/problem/22<br/>
 Time Limit :  2000 ms       Memory Limit :  10000 KiB       Deadline :  2016-10-09 23:59:59<br/>
 Description<br/>
